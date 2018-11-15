@@ -11,5 +11,3 @@
 #include "CppUnitTest.h"
 
 // TODO: reference additional headers your program requires here
-#include "..\Classes Challenges\Module.h"
-#include "..\Classes Challenges\Student.h"
